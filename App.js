@@ -13,7 +13,6 @@ const Stack = createStackNavigator();
 
 export default function App() {
   StatusBar.setBackgroundColor('transparent');
-  // StatusBar.setHidden(true)
   StatusBar.setTranslucent(true)
 
   
